@@ -12,11 +12,9 @@
 
 **Programming Languages**
 
-<img title="C" alt="C" width="40px" src="	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img title="PHP" alt="PHP" width="40px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img title="Python" alt="Python" width="40px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-
-|--|--|--|--|--|
+<img title="C" alt="C" src="	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img title="PHP" alt="PHP"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img title="Python" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
 **Libraries and Frameworks**
 
