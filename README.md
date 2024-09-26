@@ -1,8 +1,4 @@
 
-### 👋 Olá! Eu sou Clau
-
-🌱 Atualmente, estou em busca de desenvolver minhas habilidades em programação e robótica, com um foco em IOt.
-
 🚀 **Interesses:**
 - Robótica educacional
 - Internet das Coisas (IoT)
