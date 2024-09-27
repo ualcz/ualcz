@@ -1,19 +1,11 @@
 
-🚀 **Interesses:**
-- Robótica educacional
-- Internet das Coisas (IoT)
-- Inteligência Artificial
-- Sustentabilidade e meio ambiente
 
-
-**Programming Languages**
-
-<img title="C" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img title="PHP" alt="PHP"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img title="Python" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-
+<a href="https://github.com/ualcz/ualcz/"><img height=200px  src="https://github-readme-stats.vercel.app/api?username=ualcz&theme=radical&show_icons=true"> <img height=200px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ualcz&layout=compact&theme=radical&show_icons=true"><a<
 
 **Databases**
 
-<img title="SQL" alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img title="SQL" alt="SQL" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> <img title="SQL" alt="SQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img title="SQL" alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><img title="SQL" alt="SQL" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"><img title="SQL" alt="SQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+
 
 **Tools**
 
@@ -22,4 +14,7 @@
 
 
 📫 **Como me encontrar:**
-- [Email](Claudeilsonsouzza@gmail.com)
+
+<a href="Claudeilsonsouzza@gmail.com"><img height=50px  src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"><a>
+
+
