@@ -1,15 +1,17 @@
 # 👋 Olá, eu sou Claudeilson Souza
 
-💻 Desenvolvedor focado em desenvolvimento web full stack. Sempre buscando aprender novas tecnologias e resolver problemas reais.
+Desenvolvedor focado em desenvolvimento web full stack. Sempre buscando aprender novas tecnologias e resolver problemas reais.
 
 ---
 
 ## 🚀 Stack Principal
 
 **Front-end**
+
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind&theme=light)](https://skillicons.dev)
 
 **Back-end**
+
 [![My Skills](https://skillicons.dev/icons?i=fastapi,spring,laravel&theme=light)](https://skillicons.dev)
 
 ---
